@@ -1,0 +1,6 @@
+{
+	"ignore": [
+		"node_modules"
+	],
+	"ext": "js, ts, json, html, htm, tsx, jsx, css, scss"
+}
